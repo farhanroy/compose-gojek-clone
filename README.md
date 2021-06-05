@@ -2,7 +2,7 @@
 
 Kloning UI aplikasi gojek menggunakan **Jetpack Compose**. 
 
-!()[]
+![](https://raw.githubusercontent.com/farhanroy/compose-gojek-clone/main/art/home.jpg)
 
 ### Tools
 
